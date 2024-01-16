@@ -1,0 +1,10 @@
+QDNAseq.hg38-package    Package QDNAseq.hg38
+hg38.1000kbp.SR50       hg38 1000kbp bin annotations
+hg38.100kbp.SR50        hg38 100kbp bin annotations
+hg38.10kbp.SR50         hg38 10kbp bin annotations
+hg38.15kbp.SR50         hg38 15kbp bin annotations
+hg38.1kbp.SR50          hg38 1kbp bin annotations
+hg38.30kbp.SR50         hg38 30kbp bin annotations
+hg38.500kbp.SR50        hg38 500kbp bin annotations
+hg38.50kbp.SR50         hg38 50kbp bin annotations
+hg38.5kbp.SR50          hg38 5kbp bin annotations
