@@ -72,6 +72,7 @@ def main(args):
                     # pass through good lines
                     result.write(line)
         if in_record:
+            current_record[3] = 'N'
             result.write('\t'.join(current_record) + '\n')
 
 
